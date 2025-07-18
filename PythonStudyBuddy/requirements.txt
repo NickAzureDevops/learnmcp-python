@@ -1,0 +1,4 @@
+mcp>=0.3.0
+asyncio
+dataclasses-json
+colorama
